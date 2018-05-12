@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42217
     wikipedia: http://en.wikipedia.org/wiki/Timothy_Dexter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43453#A-Pickle-For-The-Knowing-Ones
 gutenberg_issued: '2013-08-12'
 gutenberg_type: Text
 identifiers:
